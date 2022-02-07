@@ -1,0 +1,4 @@
+este es mi primer proyecto de git
+con fecha 07 de feb 2022
+ya habia iniciado anterior mente con esto. 
+pero como no me quedo claro empece de nuevo.
